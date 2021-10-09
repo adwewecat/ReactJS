@@ -1,4 +1,4 @@
-CD /d d:\LAP_TRINH_VIP\4.F8.edu.vn\JavaScript
+CD /d d:\LAP_TRINH_VIP\4.F8.edu.vn\ReactJS
 
 git status
 
