@@ -1,0 +1,6 @@
+Ai bị lỗi EPERM: operation not permitted, 
+mkdir 'C:\Users\Admin' command not found: create-react-app 
+thì có thể lỗi do bạn có khoảng trắng trong tên người dùng như mình thì thử cách nhanh này nha
+npm install -g create-react-app
+sau đó mới tạo ứng dụng bằng lệnh
+npx create-react-app tiktok là được
